@@ -1,0 +1,22 @@
+/* body {
+    background: yellow;     /* red, blue, yellow, etc */
+    /*color: blue;            /* red, blue, yellow, etc */
+    /*font-size: 40px;        /* 0px - 100px and beyond */
+    /*font-weight: lighter;   /* lighter, normal, bold  */
+    /*text-align: left;      /* left, center or right  */ 
+    /*margin-top: 5px;        /* From 0px and upwards   */
+/*} */
+
+..main{
+    margin-top: 40px;
+}
+.logo-img{
+    display: block;
+    margin-top: 40px;
+    width: 400px;
+
+}
+.search-input{
+    display: block;
+    width: 300px; 
+}
